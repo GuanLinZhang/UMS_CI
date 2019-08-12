@@ -1,0 +1,70 @@
+
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    line-height: 1.6;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+html,body{height: 100%;}
+
+
+.container {
+    overflow: auto;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.weui-cells.weui-cells_form {
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.page__title {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+.weui-btn-area {
+    margin-top: 200px;
+}
+.weui-panel.weui-panel_access {
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+}
+
+a img {
+    border: 0;
+}
+
+a {
+    text-decoration: none;
+.setTapColor();
+}
+
+.page__ft.j_bottom {
+    position: relative;
+}
+
+.novo_icon {
+    display: inline-block;
+    width: 68px;
+    height: 48px;
+    background-image: url("../images/novo-logo-dhpx.image.68.0.png");
+}
+.weui-media-box__thumb {
+    height: 100%;
+    border-radius: 15px;
+}
+
+.weui-cells {
+    border-radius: 15px;
+}
